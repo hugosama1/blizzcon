@@ -1,0 +1,11 @@
+{
+  "name": "Blizzcon",
+  "version": "1.0",
+  "description": "Vamonos a la blizzcon !!",
+  "background": {
+    "scripts": ["background.js", "jquery-3.3.1.min.js"],
+    "persistent": false
+  },
+  "permissions": ["*://*/*", "tabs"],
+  "manifest_version": 2
+}
